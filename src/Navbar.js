@@ -6,7 +6,7 @@ class Navbar extends Component {
           <nav className="navbar navbar-inverse navbar-fixed-top">
             <div className="container-fluid">
               <div className="navbar-header">
-                <Link className="navbar-brand" to ="/">HGLeoCho - Web422 - Assignment4</Link>
+                <Link className="navbar-brand" to ="/">HGLeoCho</Link>
               </div>
             </div>
           </nav>
